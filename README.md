@@ -1,10 +1,10 @@
 <h1>👋 Hello there, It's Yxxhixx</h1><br>
 - 👀 I’m interested in Sleeping<br>
-- 🌱 I’m currently learning how to make money sleeping or dead<br>
-- 💞️ I’m looking for a path<br>
+- 🌱 I’m currently learning how to make money sleeping<br>
+- 💞️ I’m looking for redemption<br>
 
 
-Portfolio ? [website](https://yxxhixx.github.io/portfolio/)<br><br>
+Portfolio ? [website](https://DZAIRVERSE.com)<br><br>
 
 
 ## 🧰 Languages and Tools:
